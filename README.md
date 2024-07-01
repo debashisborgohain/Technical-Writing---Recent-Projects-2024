@@ -1,5 +1,5 @@
-At Akamai, I am part of Engineering Learning team that caters to multiple product teams by providing user guides and videos. 
-Here are a few user guide previews:
+At Akamai, I am part of the Engineering Learning team that caters to multiple product teams by providing user guides and videos. 
+Here are some work samples:
 
 **Project Title:** CloudBees CI User Guide and Videos <br>
 **Audience:** All Akamai internal developers <br>
